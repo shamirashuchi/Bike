@@ -1,0 +1,13 @@
+.bikers-zone-light-red{
+    background-color:rgba(255, 0, 0, 0.19);
+}
+.rating-icon{
+    width:16.8px;
+}
+.bz-danger{
+    background-color:blue;
+    color: white;
+}
+.w-25{
+    width:75% !important;
+}
